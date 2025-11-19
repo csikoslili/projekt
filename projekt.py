@@ -1,3 +1,4 @@
+
 host=int(input("add meg a hosztok számát:"))
 alap=input("add meg a hálózatot:")
 a=0
@@ -46,3 +47,4 @@ else:
 
 print("alhálózati maszk: {}.{}.{}.{}".format(elso,masodik,harmadik,negyedik))
 print(2**(8-x))
+#asd
